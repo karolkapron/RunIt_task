@@ -1,0 +1,8 @@
+<Person>
+    <personId>1</personId>
+    <firstName>Algebra</firstName>
+    <lastName>Algebraiczna</lastName>
+    <mobile>623462382</mobile>
+    <email>algebra@example.com</email>
+    <pesel>0465784214</pesel>
+</Person>

@@ -1,0 +1,61 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.ide
+out/
+
+# Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtual Machine files
+*.vdi
+*.vbox
+*.vbox-prev
+
+# Node Modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Other files and directories to ignore
+tmp/
+temp/
